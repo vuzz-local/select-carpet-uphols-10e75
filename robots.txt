@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vuzz-local.github.io/select-carpet-uphols-10e75/sitemap.xml
+Sitemap: https://select-carpet-uphols-10e75.pages.dev/sitemap.xml
